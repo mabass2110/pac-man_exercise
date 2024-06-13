@@ -16,5 +16,5 @@ Future improvements for the project may include:
 - Implementing user controls to change PacMan direction.
 - Enhancing the visual design of the game.
 
-## License
-This project is licensed under the MIT License. See the LICENSE file for details.
+## License Information:
+This project is licensed under the [MIT License](https://opensource.org/licenses/MIT). Feel free to modify and distribute it according to the terms of the license.
